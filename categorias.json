@@ -1,51 +1,33 @@
 [
     {
         "catId": 1,
-        "catName": "Computadoras",
-        "catIcon": "flaticon-tv",
-        "catHasChildren": true
+        "catName": "Componentes",
+        "catIcon": "flaticon-tv"
     },
     {
         "catId": 2,
-        "catName": "Celulares & Tablets",
-        "catIcon": "flaticon-responsive",
-        "catHasChildren": true
+        "catName": "Gamer PCs",
+        "catIcon": "flaticon-tv"
     },
     {
         "catId": 3,
-        "catName": "Componentes",
-        "catIcon": "flaticon-mouse",
-        "catHasChildren": true
+        "catName": "Laptops",
+        "catIcon": "flaticon-responsive"
     },
     {
         "catId": 4,
-        "catName": "Auriculares",
-        "catIcon": "flaticon-headphones",
-        "catHasChildren": false
+        "catName": "Celulares",
+        "catIcon": "flaticon-mouse"
     },
     {
         "catId": 5,
-        "catName": "Mouse Pads",
-        "catIcon": "linearicons-mouse",
-        "catHasChildren": false
+        "catName": "Tablets",
+        "catIcon": "flaticon-headphones"
     },
     {
         "catId": 6,
-        "catName": "Iluminación",
-        "catIcon": "linearicons-spotlights",
-        "catHasChildren": false
-    },
-    {
-        "catId": 7,
         "catName": "Impresoras",
-        "catIcon": "flaticon-printer",
-        "catHasChildren": false
-    },
-    {
-        "catId": 8,
-        "catName": "Conectividad",
-        "catIcon": "linearicons-network",
-        "catHasChildren": false
+        "catIcon": "flaticon-printer"
     }
 
 ]
