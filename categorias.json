@@ -2,7 +2,7 @@
     {
         "catId": 1,
         "catName": "Componentes",
-        "catIcon": "flaticon-tv"
+        "catIcon": "linearicons-screwdriver"
     },
     {
         "catId": 2,
@@ -12,17 +12,17 @@
     {
         "catId": 3,
         "catName": "Laptops",
-        "catIcon": "flaticon-responsive"
+        "catIcon": "linearicons-laptop"
     },
     {
         "catId": 4,
         "catName": "Celulares",
-        "catIcon": "flaticon-mouse"
+        "catIcon": "linearicons-smartphone"
     },
     {
         "catId": 5,
         "catName": "Tablets",
-        "catIcon": "flaticon-headphones"
+        "catIcon": "linearicons-tablet"
     },
     {
         "catId": 6,
